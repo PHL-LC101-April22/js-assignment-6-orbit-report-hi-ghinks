@@ -27,4 +27,9 @@ export class OrbitListComponent implements OnInit {
 		});
 	}
 
+	/*addSatellite(newSatellite: object) {
+		if (!this.satellites.includes(newSatellite))
+		this.satellites.push(newSatellite);
+
+	}*/
 }
